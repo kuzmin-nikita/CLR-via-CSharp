@@ -1,5 +1,7 @@
 # CLR-via-CSharp
 
+https://viduus.net/wp-content/uploads/2018/02/Rihter-Dzh.-CLR-via-C.-Programmirovanie-na-platforme-Microsoft-.NET-Framework-4.5-na-yazyke-C-Master-klass-2013.pdf
+
 Оглавление: 
 
 ### Часть I. Основы CLR
