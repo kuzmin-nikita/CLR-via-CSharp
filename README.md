@@ -11,7 +11,7 @@
 [Глава 3. Совместно используемые сборки и сборки со строгим именем](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter3.md) + [Разбор](https://www.youtube.com/watch?v=QjyDI3h1Md8&list=PLIIXgDT0bKw6i4jQkHVgIrnsP-DcvBieq&index=3&ab_channel=CODEBLOG)
 
 ### Часть II. Проектирование типов
-[Глава 4. Основы типов](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter4.md) \
+[Глава 4. Основы типов](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter4.md) + [Разбор](https://www.youtube.com/watch?v=Ib5l0p4uVsA&list=PLIIXgDT0bKw6i4jQkHVgIrnsP-DcvBieq&index=4&ab_channel=CODEBLOG)\
 [Глава 5. Примитивные, ссылочные и значимые типы](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter5.md) \
 [Глава 6. Основные сведения о членах и типах](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter6.md) \
 [Глава 7. Константы и поля](https://github.com/kuzmin-nikita/CLR-via-CSharp/blob/main/chapters/Chapter7.md) \
