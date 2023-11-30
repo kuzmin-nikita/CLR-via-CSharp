@@ -13,7 +13,7 @@
 ### Часть II. Проектирование типов
 [Глава 4. Основы типов](chapters/Chapter4.md) + [Разбор](https://www.youtube.com/watch?v=Ib5l0p4uVsA) \
 [Глава 5. Примитивные, ссылочные и значимые типы](chapters/Chapter5.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=F-tfG8TKgAs), [Часть 2](https://www.youtube.com/watch?v=YNvK9Y2kEyg) и [Часть 3](https://www.youtube.com/watch?v=p-pZ3uRUrsw) \
-[Глава 6. Основные сведения о членах и типах](chapters/Chapter6.md) \
+[Глава 6. Основные сведения о членах и типах](chapters/Chapter6.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=5K8mZxT4BnE) и [Часть 2](https://www.youtube.com/watch?v=UITGgOyUN10) \
 [Глава 7. Константы и поля](chapters/Chapter7.md) \
 [Глава 8. Методы](chapters/Chapter8.md) \
 [Глава 9. Параметры](chapters/Chapter9.md) \
