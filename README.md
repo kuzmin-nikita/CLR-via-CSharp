@@ -1,6 +1,6 @@
 # CLR-via-CSharp
 
-[Книга](https://viduus.net/wp-content/uploads/2018/02/Rihter-Dzh.-CLR-via-C.-Programmirovanie-na-platforme-Microsoft-.NET-Framework-4.5-na-yazyke-C-Master-klass-2013.pdf)
+[Книга](CLR-via-C№.pdf)
 
 Оглавление: 
 
