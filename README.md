@@ -1,6 +1,6 @@
 # CLR-via-CSharp
 
-[Книга](CLR-via-C№.pdf)
+[Книга](CLR-via-C#.pdf)
 
 Оглавление: 
 
