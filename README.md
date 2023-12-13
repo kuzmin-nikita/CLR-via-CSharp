@@ -28,5 +28,5 @@
 [Глава 15. Перечислимые типы и битовые флаги](chapters/Chapter15.md) \
 [Глава 16. Массивы](chapters/Chapter16.md) \
 [Глава 17. Делегаты](chapters/Chapter17.md) \
-[Глава 18. Настраиваемые атрибуты] (chapters/Chapter18.md) \
+[Глава 18. Настраиваемые атрибуты](chapters/Chapter18.md) \
 [Глава 19. Null-совместимые значимые типы] (chapters/Chapter19.md) 
