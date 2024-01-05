@@ -18,7 +18,7 @@
 [Глава 8. Методы](chapters/Chapter08.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=nYSZoONS6jQ), [Часть 2](https://www.youtube.com/watch?v=xWHAkcKp37g) и [Часть 3](https://www.youtube.com/watch?v=FvlzU30CLLg) \
 [Глава 9. Параметры](chapters/Chapter09.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=DubSy0aGSPk) и [Часть 2](https://www.youtube.com/watch?v=7jM2eBM-NTE) \
 [Глава 10. Свойства](chapters/Chapter10.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=oAn-bdSrxPc), [Часть 2](https://www.youtube.com/watch?v=cTOQ7PA-Oyo), [Часть 3](https://www.youtube.com/watch?v=p_Nz3Ce_gyU), [Часть 4](https://www.youtube.com/watch?v=_jtZkXwck3A), [Часть 5](https://www.youtube.com/watch?v=So22CTC8Dng) и [Часть 6](https://www.youtube.com/watch?v=D1vOGFoVvfw) \
-[Глава 11. События](chapters/Chapter11.md) (укороченная версия, так как глава не самая интересная и полезная) + Разбор: [Часть 1](https://www.youtube.com/watch?v=DZFr4KAebZk) и [Часть 2](https://www.youtube.com/watch?v=sZdQqdLYh6w) \
+[Глава 11. События](chapters/Chapter11.md) (укороченная версия, так как глава не самая интересная и актуальная) + Разбор: [Часть 1](https://www.youtube.com/watch?v=DZFr4KAebZk) и [Часть 2](https://www.youtube.com/watch?v=sZdQqdLYh6w) \
 [Глава 12. Обобщения](chapters/Chapter12.md) + Разбор: [Часть 1](https://www.youtube.com/watch?v=9IYdDaM6Ms8), [Часть 2](https://www.youtube.com/watch?v=xis1LsgEvLA), [Часть 3](https://www.youtube.com/watch?v=RICs_DbbwDQ), [Часть 4](https://www.youtube.com/watch?v=YPZJJF9s6Cs) и [Стрим](https://www.youtube.com/watch?v=cmMWHGjAV-0) \
 [Глава 13. Интерфейсы](chapters/Chapter13.md) + [Разбор](https://www.youtube.com/watch?v=hjBKXOf9UDc)
 
@@ -45,5 +45,5 @@
 [Глава 26. Потоки исполнения](chapters/Chapter26.md) \
 [Глава 27. Асинхронные вычислительные операции](chapters/Chapter27.md) \
 [Глава 28. Асинхронные операции ввода-вывода](chapters/Chapter28.md) \
-[Глава 29. Примитивные конструкции синхронизации потоков] (chapters/Chapter29.md) \
+[Глава 29. Примитивные конструкции синхронизации потоков](chapters/Chapter29.md) \
 [Глава 30. Гибридные конструкции синхронизации потоков] (chapters/Chapter30.md) 
